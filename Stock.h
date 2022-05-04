@@ -5,7 +5,7 @@
 #include <map>
 #include <iostream>
 #include <iomanip>
-
+// bbbbb
 using namespace std;
 namespace fre {
 	class Stock {
